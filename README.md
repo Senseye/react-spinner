@@ -2,6 +2,12 @@
 # Spinner
 A react component that reflects the progress of a process with a beautiful SVG Animated Circle.
 
+# Setup & Run
+1. `npm install`
+1. `npm run start`
+
+**Run tests** with `npm run test`
+
 # Usage
 Render the component `<Spinner actualProgress={value} />` with the single required parameter `actualProgress`.
 
