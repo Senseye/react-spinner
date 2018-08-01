@@ -1,0 +1,517 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Spinner Component with all parameters should render with the progress circle and animation tags till completed 1`] = `
+<svg
+  height={510}
+  width={510}
+>
+  <circle
+    cx={255}
+    cy={255}
+    fill="none"
+    r={250}
+    stroke="#e6e6e6"
+    strokeWidth={10}
+  />
+  <circle
+    cx={255}
+    cy={255}
+    fill="none"
+    r={250}
+    stroke="#4169E1"
+    strokeDasharray={1570.7963267948965}
+    strokeDashoffset={1178.0972450961724}
+    strokeWidth={10}
+  >
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      dur="1s"
+      from="360 255 255"
+      repeatCount="indefinite"
+      to="0 255 255"
+      type="rotate"
+    />
+  </circle>
+  <text
+    fontSize={136}
+    textAnchor="middle"
+    x={255}
+    y={300.3333333333333}
+  >
+    25
+  </text>
+</svg>
+`;
+
+exports[`Spinner Component with all parameters should render with the progress circle and animation tags till completed 2`] = `
+<svg
+  height={510}
+  width={510}
+>
+  <circle
+    cx={255}
+    cy={255}
+    fill="none"
+    r={250}
+    stroke="#e6e6e6"
+    strokeWidth={10}
+  />
+  <circle
+    cx={255}
+    cy={255}
+    fill="none"
+    r={250}
+    stroke="#4169E1"
+    strokeDasharray={1570.7963267948965}
+    strokeDashoffset={785.3981633974482}
+    strokeWidth={10}
+  >
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      dur="1s"
+      from="360 255 255"
+      repeatCount="indefinite"
+      to="0 255 255"
+      type="rotate"
+    />
+  </circle>
+  <text
+    fontSize={136}
+    textAnchor="middle"
+    x={255}
+    y={300.3333333333333}
+  >
+    50
+  </text>
+</svg>
+`;
+
+exports[`Spinner Component with all parameters should render with the progress circle and animation tags till completed 3`] = `
+<svg
+  height={510}
+  width={510}
+>
+  <circle
+    cx={255}
+    cy={255}
+    fill="none"
+    r={250}
+    stroke="#e6e6e6"
+    strokeWidth={10}
+  />
+  <circle
+    cx={255}
+    cy={255}
+    fill="none"
+    r={250}
+    stroke="#4169E1"
+    strokeDasharray={1570.7963267948965}
+    strokeDashoffset={-1570.7963267948965}
+    strokeWidth={10}
+  />
+  <text
+    fontSize={136}
+    textAnchor="middle"
+    x={255}
+    y={300.3333333333333}
+  >
+    200
+  </text>
+</svg>
+`;
+
+exports[`Spinner Component with all parameters should render with the progress circle and animation tags till completed 4`] = `
+<svg
+  height={510}
+  width={510}
+>
+  <circle
+    cx={255}
+    cy={255}
+    fill="none"
+    r={250}
+    stroke="#e6e6e6"
+    strokeWidth={10}
+  />
+  <circle
+    cx={255}
+    cy={255}
+    fill="none"
+    r={250}
+    stroke="#4169E1"
+    strokeDasharray={1570.7963267948965}
+    strokeDashoffset={-1570.7963267948965}
+    strokeWidth={10}
+  />
+  <text
+    fontSize={136}
+    textAnchor="middle"
+    x={255}
+    y={300.3333333333333}
+  >
+    200
+  </text>
+</svg>
+`;
+
+exports[`Spinner Component with all parameters should render with the progress circle and animation tags till completed 5`] = `
+<svg
+  height={510}
+  width={510}
+>
+  <circle
+    cx={255}
+    cy={255}
+    fill="none"
+    r={250}
+    stroke="#e6e6e6"
+    strokeWidth={10}
+  />
+  <circle
+    cx={255}
+    cy={255}
+    fill="none"
+    r={250}
+    stroke="#4169E1"
+    strokeDasharray={1570.7963267948965}
+    strokeDashoffset={-3330.088212805181}
+    strokeWidth={10}
+  />
+  <text
+    fontSize={136}
+    textAnchor="middle"
+    x={255}
+    y={300.3333333333333}
+  >
+    312
+  </text>
+</svg>
+`;
+
+exports[`Spinner Component with all parameters should render with the progress circle and animation tags till completed 6`] = `
+<svg
+  height={510}
+  width={510}
+>
+  <circle
+    cx={255}
+    cy={255}
+    fill="none"
+    r={250}
+    stroke="#e6e6e6"
+    strokeWidth={10}
+  />
+  <circle
+    cx={255}
+    cy={255}
+    fill="none"
+    r={250}
+    stroke="#4169E1"
+    strokeDasharray={1570.7963267948965}
+    strokeDashoffset={-3487.1678454846706}
+    strokeWidth={10}
+  />
+  <text
+    fontSize={136}
+    textAnchor="middle"
+    x={255}
+    y={300.3333333333333}
+  >
+    322
+  </text>
+</svg>
+`;
+
+exports[`Spinner Component with all parameters should render without the progress circle and animation tags for no progress 1`] = `
+<svg
+  height={55}
+  width={55}
+>
+  <circle
+    cx={27.5}
+    cy={27.5}
+    fill="none"
+    r={25}
+    stroke="#ff0000"
+    strokeWidth={5}
+  />
+  <text
+    fontSize={14.666666666666666}
+    textAnchor="middle"
+    x={27.5}
+    y={32.388888888888886}
+  >
+    0
+  </text>
+</svg>
+`;
+
+exports[`Spinner Component without optional parameters should render with the progress circle and animation tags till completed 1`] = `
+<svg
+  height={510}
+  width={510}
+>
+  <circle
+    cx={255}
+    cy={255}
+    fill="none"
+    r={250}
+    stroke="#e6e6e6"
+    strokeWidth={10}
+  />
+  <circle
+    cx={255}
+    cy={255}
+    fill="none"
+    r={250}
+    stroke="#4169E1"
+    strokeDasharray={1570.7963267948965}
+    strokeDashoffset={1178.0972450961724}
+    strokeWidth={10}
+  >
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      dur="1s"
+      from="360 255 255"
+      repeatCount="indefinite"
+      to="0 255 255"
+      type="rotate"
+    />
+  </circle>
+  <text
+    fontSize={136}
+    textAnchor="middle"
+    x={255}
+    y={300.3333333333333}
+  >
+    25
+  </text>
+</svg>
+`;
+
+exports[`Spinner Component without optional parameters should render with the progress circle and animation tags till completed 2`] = `
+<svg
+  height={510}
+  width={510}
+>
+  <circle
+    cx={255}
+    cy={255}
+    fill="none"
+    r={250}
+    stroke="#e6e6e6"
+    strokeWidth={10}
+  />
+  <circle
+    cx={255}
+    cy={255}
+    fill="none"
+    r={250}
+    stroke="#4169E1"
+    strokeDasharray={1570.7963267948965}
+    strokeDashoffset={785.3981633974482}
+    strokeWidth={10}
+  >
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      dur="1s"
+      from="360 255 255"
+      repeatCount="indefinite"
+      to="0 255 255"
+      type="rotate"
+    />
+  </circle>
+  <text
+    fontSize={136}
+    textAnchor="middle"
+    x={255}
+    y={300.3333333333333}
+  >
+    50
+  </text>
+</svg>
+`;
+
+exports[`Spinner Component without optional parameters should render with the progress circle and animation tags till completed 3`] = `
+<svg
+  height={510}
+  width={510}
+>
+  <circle
+    cx={255}
+    cy={255}
+    fill="none"
+    r={250}
+    stroke="#e6e6e6"
+    strokeWidth={10}
+  />
+  <circle
+    cx={255}
+    cy={255}
+    fill="none"
+    r={250}
+    stroke="#4169E1"
+    strokeDasharray={1570.7963267948965}
+    strokeDashoffset={392.6990816987241}
+    strokeWidth={10}
+  >
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      dur="1s"
+      from="360 255 255"
+      repeatCount="indefinite"
+      to="0 255 255"
+      type="rotate"
+    />
+  </circle>
+  <text
+    fontSize={136}
+    textAnchor="middle"
+    x={255}
+    y={300.3333333333333}
+  >
+    75
+  </text>
+</svg>
+`;
+
+exports[`Spinner Component without optional parameters should render with the progress circle and animation tags till completed 4`] = `
+<svg
+  height={510}
+  width={510}
+>
+  <circle
+    cx={255}
+    cy={255}
+    fill="none"
+    r={250}
+    stroke="#e6e6e6"
+    strokeWidth={10}
+  />
+  <circle
+    cx={255}
+    cy={255}
+    fill="none"
+    r={250}
+    stroke="#4169E1"
+    strokeDasharray={1570.7963267948965}
+    strokeDashoffset={392.6990816987241}
+    strokeWidth={10}
+  >
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      dur="1s"
+      from="360 255 255"
+      repeatCount="indefinite"
+      to="0 255 255"
+      type="rotate"
+    />
+  </circle>
+  <text
+    fontSize={136}
+    textAnchor="middle"
+    x={255}
+    y={300.3333333333333}
+  >
+    75
+  </text>
+</svg>
+`;
+
+exports[`Spinner Component without optional parameters should render with the progress circle and animation tags till completed 5`] = `
+<svg
+  height={510}
+  width={510}
+>
+  <circle
+    cx={255}
+    cy={255}
+    fill="none"
+    r={250}
+    stroke="#e6e6e6"
+    strokeWidth={10}
+  />
+  <circle
+    cx={255}
+    cy={255}
+    fill="none"
+    r={250}
+    stroke="#4169E1"
+    strokeDasharray={1570.7963267948965}
+    strokeDashoffset={0}
+    strokeWidth={10}
+  />
+  <text
+    fontSize={136}
+    textAnchor="middle"
+    x={255}
+    y={300.3333333333333}
+  >
+    100
+  </text>
+</svg>
+`;
+
+exports[`Spinner Component without optional parameters should render with the progress circle and animation tags till completed 6`] = `
+<svg
+  height={510}
+  width={510}
+>
+  <circle
+    cx={255}
+    cy={255}
+    fill="none"
+    r={250}
+    stroke="#e6e6e6"
+    strokeWidth={10}
+  />
+  <circle
+    cx={255}
+    cy={255}
+    fill="none"
+    r={250}
+    stroke="#4169E1"
+    strokeDasharray={1570.7963267948965}
+    strokeDashoffset={-78.53981633974489}
+    strokeWidth={10}
+  />
+  <text
+    fontSize={136}
+    textAnchor="middle"
+    x={255}
+    y={300.3333333333333}
+  >
+    105
+  </text>
+</svg>
+`;
+
+exports[`Spinner Component without optional parameters should render without the progress circle and animation tags for no progress 1`] = `
+<svg
+  height={510}
+  width={510}
+>
+  <circle
+    cx={255}
+    cy={255}
+    fill="none"
+    r={250}
+    stroke="#e6e6e6"
+    strokeWidth={10}
+  />
+  <text
+    fontSize={136}
+    textAnchor="middle"
+    x={255}
+    y={300.3333333333333}
+  >
+    0
+  </text>
+</svg>
+`;
